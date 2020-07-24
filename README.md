@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aocattleya.com/" /><img src="https://user-images.githubusercontent.com/39142850/88429354-6f0c0700-ce31-11ea-9f9e-f682ebb82f0f.png" /></a>
+  <a href="https://aocattleya.com/" /><img src="https://user-images.githubusercontent.com/39142850/88430972-5e10c500-ce34-11ea-8f9d-e5f0967879ec.png" /></a>
 </p>
 <p align="center">
   <a href="https://connpass.com/user/aocattleya/"><img src="https://user-images.githubusercontent.com/39142850/88427406-ce681800-ce2d-11ea-90a2-0a60f8382620.png" width="50px;" /></a><a>　　</a>
