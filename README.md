@@ -10,7 +10,6 @@
 <p>
 <p align="center">
   <a href="http://qiita.com/aocattleya"><img src="https://qiita-badge.apiapi.app/s/aocattleya/contributions.svg" height="17px;" /></a>
-  <a href="http://qiita.com/aocattleya"><img src="https://qiita-badge.apiapi.app/s/aocattleya/posts.svg" height="17px;" /></a>
   <a href="http://qiita.com/aocattleya"><img src="https://qiita-badge.apiapi.app/s/aocattleya/followers.svg" height="17px;" /></a>
   <a href="https://twitter.com/aocattleya"><img src="https://img.shields.io/twitter/follow/aocattleya?style=social" height="17px;" /></a>
 <p>
